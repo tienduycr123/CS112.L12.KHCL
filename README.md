@@ -1,2 +1,5 @@
 # CS112.L12.KHCL
-Các thành viên của nhóm cần commit về các hoạt động của nhóm (tài liệu, code, etc) để làm minh chứng cho điểm quá trình sau này.
+Nhóm N014
+Phạm Tiến Duy - 18520672 
+Phạm Nguyễn Phúc Toàn - 18520171
+Nguyễn Đức Thiện - 18520364
