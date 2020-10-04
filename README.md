@@ -7,5 +7,5 @@
 | :------------:|:-------------:|:-----:|
 | Phạm Tiến Duy        |        18520672      |  Trưởng nhóm    |
 |     Phạm Nguyễn Phúc Toàn         |       18520171     |   Thành viên |
-|     Nguyễn Đức Thiện       |  18520672        |    Thành viên|
+|     Nguyễn Đức Thiện       |  18520364        |    Thành viên|
 
